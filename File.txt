@@ -1,0 +1,2 @@
+scenario 1: Book A flight ticker
+scenario 2: Book a flight ticket to Bangalore
