@@ -1,2 +1,6 @@
 scenario 1: Book A flight ticker
 scenario 2: Book a flight ticket to Bangalore
+
+
+scenario 5: Book A flight ticker to chennai
+scenario 6: Book a flight ticket from Bangalore
